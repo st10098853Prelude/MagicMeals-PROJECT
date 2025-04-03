@@ -240,7 +240,8 @@ Enhanced User Experience
 
 The app's design considerations and GitHub's automation features will provide a seamless and enjoyable user experience. By leveraging GitHub and GitHub Actions, the Meals Idea app will be developed with efficiency, scalability and maintainability in mind, ultimately providing a valuable solution for busy individuals like Hera who are struggling with meal decisions.
 
-4.images and screenshots from the app 
+Images and screenshots from the app 
+Screenshot_2025.04.03_02.44.14.096.png
 
 Code reference
 
